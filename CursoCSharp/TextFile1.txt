@@ -1,0 +1,28 @@
+﻿Relátorio:
+
+Curso:
+- C# Curso Completo: Do Básico ao Avançado!
+https://www.udemy.com/course/curso-c-sharp/?couponCode=ST7MT41824
+
+Inicio:
+- 16/04/2024
+
+Informações:
+- Encontrei certa dificuldade em fazer meu arquivo rodar, pois no curso é fornecido um link de download para colocar no projeto e assim rodar os códigos 
+no console individualmente. No entanto, o link fornecido pelo professor não era seguro para download. Tentei entrar em contato com a Udemy para resolver 
+a questão, mas fui informado de que deveria contatar o professor. Infelizmente, todas as tentativas de comunicação com ele foram bloqueadas. 
+Entrei em contato com a Udemy novamente e estou esperando alguma reposta.
+Diante dessa situação, decidi pela melhor solução que encontrei e compreendi: inserir cada teste dentro do arquivo Program.cs e, em seguida, comentá-los 
+para evitar sua execução.
+
+
+
+
+
+
+
+
+
+
+
+
